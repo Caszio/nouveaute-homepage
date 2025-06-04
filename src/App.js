@@ -11,13 +11,13 @@ const products = [
     id: 2,
     name: 'Luxe Velvet Blazer',
     price: '$79',
-    img: 'https://via.placeholder.com/300x400?text=Luxe+Velvet+Blazer',
+    img: 'https://ae01.alicdn.com/kf/Sc32c9d9736d94e5dbd10339e2f0a9b15H.jpg',
   },
   {
     id: 3,
     name: 'Silk Scarf with Gold Detailing',
     price: '$29',
-    img: 'https://via.placeholder.com/300x400?text=Silk+Scarf+Gold',
+    img: 'https://ae01.alicdn.com/kf/S58bc24a6c2694dc19369e693c59152f2W.jpg',
   },
 ];
 
